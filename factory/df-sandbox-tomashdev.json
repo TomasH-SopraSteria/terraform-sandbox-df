@@ -1,0 +1,9 @@
+{
+	"name": "df-sandbox-tomashdev",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18d2ae41-09f4-4b4b-818e-f3e8279ca5ee",
+		"tenantId": "85173d93-99ef-4dff-9b45-495719659133"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "linkedKV",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-sandbox-tomash3dev.vault.azure.net/"
+		},
+		"annotations": []
+	}
+}
